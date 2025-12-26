@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "full_name": "Абрамов В.А.",
     "birth_date": null,
     "country": "Chuvashia - Volzhskaya Bulgaria",
@@ -22,12 +23,13 @@
     "criminal_organizations": []
   },
   {
+    "id": 2,
     "full_name": "Администрация Президента Российской Федерации",
     "birth_date": null,
     "country": "Russia",
     "country_code": "RUS",
     "city": "Moscow",
-    "photo_url": null,
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moscow_StarayaSquare4_S66.jpg/500px-Moscow_StarayaSquare4_S66.jpg",
     "identity_documents": null,
     "additional_info": null,
     "social_networks": [],
@@ -44,6 +46,7 @@
     "criminal_organizations": ["Administration of President"]
   },
   {
+    "id": 3,
     "full_name": "Блясина Наталия Владимировна",
     "birth_date": null,
     "country": "Chuvashia - Volzhskaya Bulgaria",
@@ -66,6 +69,7 @@
     "criminal_organizations": []
   },
   {
+    "id": 4,
     "full_name": "Бурдинский Евгений Владимирович",
     "birth_date": null,
     "country": "Chuvashia - Volzhskaya Bulgaria",
@@ -89,6 +93,7 @@
     "criminal_organizations": ["Ministry of Defense"]
   },
   {
+    "id": 5,
     "full_name": "Васильев Павел Александрович",
     "birth_date": null,
     "country": "Lapland",
@@ -111,6 +116,7 @@
     "criminal_organizations": ["FSB"]
   },
   {
+    "id": 6,
     "full_name": "Гавриловец Игорь Леонидович",
     "birth_date": null,
     "country": "Ingria",
@@ -133,6 +139,7 @@
     "criminal_organizations": ["Voenkomaty"]
   },
   {
+    "id": 7,
     "full_name": "Герасимов Валерий Васильевич",
     "birth_date": "1955-09-08",
     "country": "Russia",
@@ -156,6 +163,7 @@
     "criminal_organizations": ["Ministry of Defense"]
   },
   {
+    "id": 8,
     "full_name": "Забродин С.Л.",
     "birth_date": null,
     "country": "Chuvashia - Volzhskaya Bulgaria",
@@ -178,6 +186,7 @@
     "criminal_organizations": []
   },
   {
+    "id": 9,
     "full_name": "Медведев Александр Михайлович",
     "birth_date": null,
     "country": "Lapland",
@@ -200,6 +209,7 @@
     "criminal_organizations": ["FSB"]
   },
   {
+    "id": 10,
     "full_name": "Михайлов Юрий Петрович",
     "birth_date": null,
     "country": "Chuvashia - Volzhskaya Bulgaria",
@@ -222,6 +232,7 @@
     "criminal_organizations": []
   },
   {
+    "id": 11,
     "full_name": "Мухин Алексей Валерьевич",
     "birth_date": null,
     "country": "Chuvashia - Volzhskaya Bulgaria",
@@ -244,6 +255,7 @@
     "criminal_organizations": ["FSB"]
   },
   {
+    "id": 12,
     "full_name": "Путин Владимир Владимирович",
     "birth_date": "1952-10-07",
     "country": "Russia",
@@ -267,12 +279,13 @@
     "criminal_organizations": ["Administration of President"]
   },
   {
+    "id": 13,
     "full_name": "Софронов Сергей Алексеевич",
     "birth_date": null,
     "country": "Chuvashia - Volzhskaya Bulgaria",
     "country_code": "CVB",
     "city": "Cheboksary",
-    "photo_url": null,
+    "photo_url": "https://github.com/court-kebe/docs/blob/main/imgs/sofronov.png?raw=true",
     "identity_documents": null,
     "additional_info": "организатор ареста",
     "social_networks": [],
@@ -289,6 +302,7 @@
     "criminal_organizations": ["FSB"]
   },
   {
+    "id": 14,
     "full_name": "Сумзина А.В.",
     "birth_date": null,
     "country": "Chuvashia - Volzhskaya Bulgaria",
@@ -311,6 +325,7 @@
     "criminal_organizations": []
   },
   {
+    "id": 15,
     "full_name": "Урмансов Марат Наилевич",
     "birth_date": null,
     "country": "Ingria",
@@ -333,12 +348,13 @@
     "criminal_organizations": ["Voenkomaty"]
   },
   {
+    "id": 16,
     "full_name": "Федеральная служба безопасности Российской Федерации (ФСБ России)",
     "birth_date": null,
     "country": "Russia",
     "country_code": "RUS",
     "city": "Moscow",
-    "photo_url": null,
+    "photo_url": "https://gur.gov.ua/images/items/20220328-1.jpg",
     "identity_documents": null,
     "additional_info": null,
     "social_networks": [],
@@ -355,12 +371,13 @@
     "criminal_organizations": ["FSB"]
   },
   {
+    "id": 17,
     "full_name": "Холиков Бахтиёр Махмаджонович",
     "birth_date": "1974-08-25",
     "country": "Chuvashia - Volzhskaya Bulgaria",
     "country_code": "CVB",
     "city": "Cheboksary",
-    "photo_url": null,
+    "photo_url": "https://fs02.rchuv.ru/rchuv19/wkchr/news/2022/09/26/b83d9070-567c-4491-a393-29466cd249c4/p1900170_-(1)_ien3ifxx.jpg",
     "identity_documents": null,
     "additional_info": null,
     "social_networks": [],
@@ -377,6 +394,7 @@
     "criminal_organizations": ["Voenkomaty"]
   },
   {
+    "id": 18,
     "full_name": "Чулков Е.С.",
     "birth_date": null,
     "country": "Chuvashia - Volzhskaya Bulgaria",
