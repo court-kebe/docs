@@ -268,9 +268,12 @@
     "phones": [],
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9605.pdf",
-      "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf"
+      "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
     ],
-    "labels": ["kidnapper", "murderer"],
+    "labels": ["kidnapper", "murderer", "assailant"],
     "debt_amount": [
       { "currency": "BLC", "amount": 1000000000 }
     ],
@@ -464,6 +467,159 @@
     "status": "outlaw",
     "special_marks": null,
     "criminal_organizations": ["Military Commissariat"]
+  },
+  {
+    "full_name": "Viktor Fedorovich Yanukovych",
+    "birth_date": null,
+    "country": "Russia",
+    "country_code": "RUS",
+    "city": "Moscow",
+    "photo_url": null,
+    "identity_documents": null,
+    "additional_info": "guilty of complicity in and assistance to armed aggression against Ukraine",
+    "social_networks": [],
+    "phones": [],
+    "court_decisions": [
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+    ],
+    "labels": ["kidnapper", "murderer", "assailant"],
+    "debt_amount": [],
+    "status": "outlaw",
+    "special_marks": null,
+    "criminal_organizations": []
+  },
+  {
+    "full_name": "Sergey Valeryevich Aksyonov",
+    "birth_date": null,
+    "country": "Russia",
+    "country_code": "RUS",
+    "city": "Moscow",
+    "photo_url": null,
+    "identity_documents": null,
+    "additional_info": "guilty of complicity in and assistance to armed aggression against Ukraine connected with the occupation of Ukrainian territory",
+    "social_networks": [],
+    "phones": [],
+    "court_decisions": [
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+    ],
+    "labels": ["kidnapper", "murderer", "assailant"],
+    "debt_amount": [],
+    "status": "outlaw",
+    "special_marks": null,
+    "criminal_organizations": []
+  },
+  {
+    "full_name": "Valentina Ivanovna Matviyenko",
+    "birth_date": null,
+    "country": "Russia",
+    "country_code": "RUS",
+    "city": "Moscow",
+    "photo_url": null,
+    "identity_documents": null,
+    "additional_info": "guilty exclusively of complicity in the war against Ukraine through participation in its legal authorization and state support",
+    "social_networks": [],
+    "phones": [],
+    "court_decisions": [
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+    ],
+    "labels": ["kidnapper", "murderer", "assailant"],
+    "debt_amount": [],
+    "status": "outlaw",
+    "special_marks": null,
+    "criminal_organizations": ["Federation Council"]
+  },
+  {
+    "full_name": "Andrey Alexandrovich Klishas",
+    "birth_date": null,
+    "country": "Russia",
+    "country_code": "RUS",
+    "city": "Moscow",
+    "photo_url": null,
+    "identity_documents": null,
+    "additional_info": "guilty exclusively of complicity in the war against Ukraine through participation in its legal authorization and state support",
+    "social_networks": [],
+    "phones": [],
+    "court_decisions": [
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+    ],
+    "labels": ["kidnapper", "murderer", "assailant"],
+    "debt_amount": [],
+    "status": "outlaw",
+    "special_marks": null,
+    "criminal_organizations": ["Federation Council"]
+  },
+  {
+    "full_name": "Yuri Leonidovich Vorobyov",
+    "birth_date": null,
+    "country": "Russia",
+    "country_code": "RUS",
+    "city": "Moscow",
+    "photo_url": null,
+    "identity_documents": null,
+    "additional_info": "guilty exclusively of complicity in the war against Ukraine through participation in its legal authorization and state support",
+    "social_networks": [],
+    "phones": [],
+    "court_decisions": [
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+    ],
+    "labels": ["kidnapper", "murderer", "assailant"],
+    "debt_amount": [],
+    "status": "outlaw",
+    "special_marks": null,
+    "criminal_organizations": ["Federation Council"]
+  },
+  {
+    "full_name": "Grigory Borisovich Karasin",
+    "birth_date": null,
+    "country": "Russia",
+    "country_code": "RUS",
+    "city": "Moscow",
+    "photo_url": null,
+    "identity_documents": null,
+    "additional_info": "guilty exclusively of complicity in the war against Ukraine through participation in its legal authorization and state support",
+    "social_networks": [],
+    "phones": [],
+    "court_decisions": [
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+    ],
+    "labels": ["kidnapper", "murderer", "assailant"],
+    "debt_amount": [],
+    "status": "outlaw",
+    "special_marks": null,
+    "criminal_organizations": ["Federation Council"]
+  },
+  {
+    "full_name": "Russian Federation",
+    "birth_date": null,
+    "country": "Russia",
+    "country_code": "RUS",
+    "city": "Moscow",
+    "photo_url": null,
+    "identity_documents": null,
+    "additional_info": "aggressor state bearing responsibility for internationally wrongful acts connected with armed aggression against Ukraine",
+    "social_networks": [],
+    "phones": [],
+    "court_decisions": [
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+    ],
+    "labels": ["kidnapper", "murderer", "assailant"],
+    "debt_amount": [],
+    "status": "outlaw",
+    "special_marks": null,
+    "criminal_organizations": []
   }
-  
 ]
