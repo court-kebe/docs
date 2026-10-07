@@ -14,9 +14,14 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 700000000 }
+      {
+        "currency": "BLC",
+        "amount": 700000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
@@ -37,13 +42,20 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 25000000000 }
+      {
+        "currency": "BLC",
+        "amount": 25000000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Administration of President"]
+    "criminal_organizations": [
+      "Administration of President"
+    ]
   },
   {
     "id": 3,
@@ -60,9 +72,14 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 5000000000 }
+      {
+        "currency": "BLC",
+        "amount": 5000000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
@@ -84,13 +101,21 @@
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9605.pdf",
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf"
     ],
-    "labels": ["kidnapper", "murderer"],
+    "labels": [
+      "kidnapper",
+      "murderer"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 310000000 }
+      {
+        "currency": "BLC",
+        "amount": 310000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Ministry of Defense"]
+    "criminal_organizations": [
+      "Ministry of Defense"
+    ]
   },
   {
     "id": 5,
@@ -107,13 +132,22 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9602.pdf"
     ],
-    "labels": ["kidnapper", "assailant", "burglar"],
+    "labels": [
+      "kidnapper",
+      "assailant",
+      "burglar"
+    ],
     "debt_amount": [
-      { "currency": "USD", "amount": 3503000 }
+      {
+        "currency": "USD",
+        "amount": 3503000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["FSB"]
+    "criminal_organizations": [
+      "FSB"
+    ]
   },
   {
     "id": 6,
@@ -130,13 +164,21 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf"
     ],
-    "labels": ["kidnapper", "murderer"],
+    "labels": [
+      "kidnapper",
+      "murderer"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 25000000 }
+      {
+        "currency": "BLC",
+        "amount": 25000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Military Commissariat"]
+    "criminal_organizations": [
+      "Military Commissariat"
+    ]
   },
   {
     "id": 7,
@@ -154,13 +196,21 @@
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9605.pdf",
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf"
     ],
-    "labels": ["kidnapper", "murderer"],
+    "labels": [
+      "kidnapper",
+      "murderer"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 375000000 }
+      {
+        "currency": "BLC",
+        "amount": 375000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Ministry of Defense"]
+    "criminal_organizations": [
+      "Ministry of Defense"
+    ]
   },
   {
     "id": 8,
@@ -177,9 +227,14 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 700000000 }
+      {
+        "currency": "BLC",
+        "amount": 700000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
@@ -200,13 +255,22 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9602.pdf"
     ],
-    "labels": ["kidnapper", "assailant", "burglar"],
+    "labels": [
+      "kidnapper",
+      "assailant",
+      "burglar"
+    ],
     "debt_amount": [
-      { "currency": "USD", "amount": 750000 }
+      {
+        "currency": "USD",
+        "amount": 750000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["FSB"]
+    "criminal_organizations": [
+      "FSB"
+    ]
   },
   {
     "id": 10,
@@ -223,9 +287,14 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 4000000000 }
+      {
+        "currency": "BLC",
+        "amount": 4000000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
@@ -246,13 +315,20 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 6000000000 }
+      {
+        "currency": "BLC",
+        "amount": 6000000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["FSB"]
+    "criminal_organizations": [
+      "FSB"
+    ]
   },
   {
     "id": 12,
@@ -269,17 +345,30 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9605.pdf",
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf"
     ],
-    "labels": ["kidnapper", "murderer", "assailant"],
+    "labels": [
+      "kidnapper",
+      "murderer",
+      "assailant"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 1000000000 }
+      {
+        "currency": "BLC",
+        "amount": 1000000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Administration of President"]
+    "criminal_organizations": [
+      "Administration of President"
+    ],
+    "court_decision_translations": {
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf": {
+        "ru": "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+        "ua": "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      }
+    }
   },
   {
     "id": 13,
@@ -296,13 +385,20 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 9000000000 }
+      {
+        "currency": "BLC",
+        "amount": 9000000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["FSB"]
+    "criminal_organizations": [
+      "FSB"
+    ]
   },
   {
     "id": 14,
@@ -319,9 +415,14 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 700000000 }
+      {
+        "currency": "BLC",
+        "amount": 700000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
@@ -342,13 +443,21 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf"
     ],
-    "labels": ["kidnapper", "murderer"],
+    "labels": [
+      "kidnapper",
+      "murderer"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 40000000 }
+      {
+        "currency": "BLC",
+        "amount": 40000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Military Commissariat"]
+    "criminal_organizations": [
+      "Military Commissariat"
+    ]
   },
   {
     "id": 16,
@@ -365,15 +474,21 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 60000000000 }
+      {
+        "currency": "BLC",
+        "amount": 60000000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["FSB"]
+    "criminal_organizations": [
+      "FSB"
+    ]
   },
-  
   {
     "id": 17,
     "full_name": "Холиков Бахтиёр Махмаджонович",
@@ -389,13 +504,21 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9605.pdf"
     ],
-    "labels": ["kidnapper", "murderer"],
+    "labels": [
+      "kidnapper",
+      "murderer"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 150000000 }
+      {
+        "currency": "BLC",
+        "amount": 150000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Military Commissariat"]
+    "criminal_organizations": [
+      "Military Commissariat"
+    ]
   },
   {
     "id": 18,
@@ -412,9 +535,14 @@
     "court_decisions": [
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9608.pdf"
     ],
-    "labels": ["kidnapper"],
+    "labels": [
+      "kidnapper"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 700000000 }
+      {
+        "currency": "BLC",
+        "amount": 700000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
@@ -435,15 +563,22 @@
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9605.pdf",
       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf"
     ],
-    "labels": ["kidnapper", "murderer"],
+    "labels": [
+      "kidnapper",
+      "murderer"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 600000000 }
+      {
+        "currency": "BLC",
+        "amount": 600000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Ministry of Defense"]
-  }
-  ,
+    "criminal_organizations": [
+      "Ministry of Defense"
+    ]
+  },
   {
     "full_name": "Военный комиссариат Российской Федерации",
     "birth_date": null,
@@ -456,17 +591,24 @@
     "social_networks": [],
     "phones": [],
     "court_decisions": [
-       "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf",
-         "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9605.pdf"
-   
+      "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9606.pdf",
+      "https://github.com/court-kebe/docs/blob/main/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D1%83%D0%B4%20_%D0%9A%D0%B5%D0%B1%D0%B5_%2C%20%D0%B4%D0%B5%D0%BB%D0%BE%20%E2%84%9605.pdf"
     ],
-    "labels": ["kidnapper","murderer"],
+    "labels": [
+      "kidnapper",
+      "murderer"
+    ],
     "debt_amount": [
-      { "currency": "BLC", "amount": 215000000 }
+      {
+        "currency": "BLC",
+        "amount": 215000000
+      }
     ],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Military Commissariat"]
+    "criminal_organizations": [
+      "Military Commissariat"
+    ]
   },
   {
     "full_name": "Viktor Fedorovich Yanukovych",
@@ -480,15 +622,23 @@
     "social_networks": [],
     "phones": [],
     "court_decisions": [
-      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf"
     ],
-    "labels": ["kidnapper", "murderer", "assailant"],
+    "labels": [
+      "kidnapper",
+      "murderer",
+      "assailant"
+    ],
     "debt_amount": [],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": []
+    "criminal_organizations": [],
+    "court_decision_translations": {
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf": {
+        "ru": "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+        "ua": "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      }
+    }
   },
   {
     "full_name": "Sergey Valeryevich Aksyonov",
@@ -502,15 +652,23 @@
     "social_networks": [],
     "phones": [],
     "court_decisions": [
-      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf"
     ],
-    "labels": ["kidnapper", "murderer", "assailant"],
+    "labels": [
+      "kidnapper",
+      "murderer",
+      "assailant"
+    ],
     "debt_amount": [],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": []
+    "criminal_organizations": [],
+    "court_decision_translations": {
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf": {
+        "ru": "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+        "ua": "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      }
+    }
   },
   {
     "full_name": "Valentina Ivanovna Matviyenko",
@@ -524,15 +682,25 @@
     "social_networks": [],
     "phones": [],
     "court_decisions": [
-      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf"
     ],
-    "labels": ["kidnapper", "murderer", "assailant"],
+    "labels": [
+      "kidnapper",
+      "murderer",
+      "assailant"
+    ],
     "debt_amount": [],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Federation Council"]
+    "criminal_organizations": [
+      "Federation Council"
+    ],
+    "court_decision_translations": {
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf": {
+        "ru": "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+        "ua": "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      }
+    }
   },
   {
     "full_name": "Andrey Alexandrovich Klishas",
@@ -546,15 +714,25 @@
     "social_networks": [],
     "phones": [],
     "court_decisions": [
-      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf"
     ],
-    "labels": ["kidnapper", "murderer", "assailant"],
+    "labels": [
+      "kidnapper",
+      "murderer",
+      "assailant"
+    ],
     "debt_amount": [],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Federation Council"]
+    "criminal_organizations": [
+      "Federation Council"
+    ],
+    "court_decision_translations": {
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf": {
+        "ru": "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+        "ua": "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      }
+    }
   },
   {
     "full_name": "Yuri Leonidovich Vorobyov",
@@ -568,15 +746,25 @@
     "social_networks": [],
     "phones": [],
     "court_decisions": [
-      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf"
     ],
-    "labels": ["kidnapper", "murderer", "assailant"],
+    "labels": [
+      "kidnapper",
+      "murderer",
+      "assailant"
+    ],
     "debt_amount": [],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Federation Council"]
+    "criminal_organizations": [
+      "Federation Council"
+    ],
+    "court_decision_translations": {
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf": {
+        "ru": "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+        "ua": "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      }
+    }
   },
   {
     "full_name": "Grigory Borisovich Karasin",
@@ -590,15 +778,25 @@
     "social_networks": [],
     "phones": [],
     "court_decisions": [
-      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf"
     ],
-    "labels": ["kidnapper", "murderer", "assailant"],
+    "labels": [
+      "kidnapper",
+      "murderer",
+      "assailant"
+    ],
     "debt_amount": [],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": ["Federation Council"]
+    "criminal_organizations": [
+      "Federation Council"
+    ],
+    "court_decision_translations": {
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf": {
+        "ru": "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+        "ua": "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      }
+    }
   },
   {
     "full_name": "Russian Federation",
@@ -612,14 +810,22 @@
     "social_networks": [],
     "phones": [],
     "court_decisions": [
-      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
-      "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf"
     ],
-    "labels": ["kidnapper", "murderer", "assailant"],
+    "labels": [
+      "kidnapper",
+      "murderer",
+      "assailant"
+    ],
     "debt_amount": [],
     "status": "outlaw",
     "special_marks": null,
-    "criminal_organizations": []
+    "criminal_organizations": [],
+    "court_decision_translations": {
+      "https://github.com/court-kebe/docs/blob/main/0009_EN_RightSector_vs_RussianFederation.pdf": {
+        "ru": "https://github.com/court-kebe/docs/blob/main/0009_RU_RightSector_vs_RussianFederation.pdf",
+        "ua": "https://github.com/court-kebe/docs/blob/main/0009_UA_RightSector_vs_RussianFederation.pdf"
+      }
+    }
   }
 ]
